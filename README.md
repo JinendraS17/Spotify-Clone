@@ -19,7 +19,7 @@ To view the Spotify clone web page, simply open the `index.html` file in a web b
 
 ## Preview
 
-![Preview](preview.png)
+![Preview]([preview.png](https://github.com/jinu21/Spotify-Clone/blob/main/Preview.png))
 
 ## Credits
 
